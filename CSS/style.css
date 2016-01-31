@@ -1,0 +1,111 @@
+
+
+body{
+	background: #1a1a1a;
+	padding: 0;
+	margin:0;
+	font-family: sans-serif;
+	color: #666;
+	height: 1000px;
+	
+}
+
+header{
+	background: #0d0d0d;
+	width: 100%;
+	padding: 40px 0;
+	text-align: right;
+}
+
+img{
+	display:inline-block;
+	float: left;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+nav ul{
+	overflow: hidden; /* KEEPS FROM SPLLING OUT OF BOX*/
+	color: white;
+	padding: 0;
+	/*text-align: center;*/
+	margin:30px 100px;
+	-webkit-transition: max-height 0.4s;
+	-mss-transition: max-height 0.4s;
+	-moz-transition: max-height 0.4s;
+	-o-transition: max-height 0.4s;
+	transition: max-height 0.4s;
+}
+
+nav ul li:hover{
+	background-color: orange;
+	padding: 10px 15px;
+	color:white;
+	transition: all 0.3s ease 0s;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 10px 15px;
+	margin-right: 15px;
+}
+
+section{
+	line-height: 1.5em;
+	font-size: 0.9em;
+	padding: 40px;
+	width: 75%; 
+	margin: 0 auto;
+}
+
+h1{
+	font-family: 'Lato', sans-serif;
+	font-size: 6em;
+	margin-bottom: 60px;
+	color: #b34700;
+}
+
+.handle{
+	width: 100%;
+	background-color: #a3a3a3;
+	text-align: left;
+	box-sizing: norder-box;
+	padding: 15px 10px;
+	cursor: pointer;
+	color: white;
+	display: none;
+}
+
+@media screen and (max-width: 580px){
+
+	nav ul{
+		max-height: 0;
+	}
+
+	.showing{
+		max-height: 20em;
+	}
+
+	nav ul li{
+		box-sizing: border-box;
+		width: 100%;
+		padding: 15px;
+		text-align: left;
+
+	}
+
+	.handle{
+		display: inline-block;
+	}
+}
+
+@media screen and (max-width: 320px){ /*--> SITE SHRINK
+										NO SMALLER THAN 320PX*/
+body{
+	width: 320px;
+}
+Status API Training Shop Blog About Pricing
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
