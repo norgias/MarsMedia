@@ -103,10 +103,10 @@ button:hover{
 
 #formwrap{
 	width: 100%;
-	float: right;
 }
 
 #form{
+	float: right;
 	margin-right: 50px;
 }
 
