@@ -4,42 +4,19 @@
 	margin-top: -50px;
 }
 
-<<<<<<< HEAD
-.form {
-	margin-right: -160px;
-}
 
-
-
-
-
-
-
-
-
-=======
->>>>>>> 3e3cd778d3e42d5e0394ba0684b798dd41e21b85
-.mars {
-	margin-top: -50px;
-}
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 3e3cd778d3e42d5e0394ba0684b798dd41e21b85
 body{
 	background-image: url('Images/stars.png');
+	background-position: center;
 	padding: 0;
 	margin:0;
 	font-family: sans-serif;
-	/*color: #bfbfbf;*/
+	color: #bfbfbf;
 	
 }
 
 header{
-	background: black;
-	/*opacity: 0.5;*/
+	background: #0d0d0d;
 	width: 100%;
 	padding: 40px 0;
 	text-align: right;
@@ -109,20 +86,6 @@ h1{
 
 @media screen and (max-width: 580px){
 
-<<<<<<< HEAD
-	
-    .form {
-    	margin-right: -30px;
-    }
-
-=======
-	h1 {
-		margin-left: -55px;
-	  	
-	}
-	
-	
->>>>>>> 3e3cd778d3e42d5e0394ba0684b798dd41e21b85
 	nav ul{
 		max-height: 0;
 	}
@@ -146,115 +109,6 @@ h1{
 
 @media screen and (max-width: 320px){ /*--> SITE SHRINK
 										NO SMALLER THAN 320PX*/
-
-.form {
-    	margin-right: 10px;
-    }
-
-
 body{
 	width: 320px;
 }
-
-#formwrap{
-	width: 720px;
-	margin-top: 30px;
-	margin-left: 30px;
-	background: #fff;
-	border: 1px solid #f1f1f1;
-	-moz-border-radius:20px;
-	-moz-box-shadow:2px 2px 5px #999;
-	-webkit-border-radius:20px;
-	-webkit-box-shadow:2px 2px 5px #999;
-	padding-bottom: 16px 10px 40px;
-
-
-}
-
-
-
-#formwrap #form{
-	border-top: 1px solid #eee;
-	width: 720px;
-
-}
-
-
-
-#form .row{
-	border-bottom: 1px solid #eee; /*defines row as individual areas*/
-	display: block;
-	/*line-height: 38px;*/
-	overflow: auto;
-	padding: 24px 0px;
-	width: 100%;
-
-
-}
-#form .row .label{
-	font-size: 16px;
-	font-weight: bold;
-	font-family: arial, helvetica, sans-serif;
-	width: 180px;
-	text-align: right;
-	float: left;
-	padding-right: 10px;
-	margin-top: 10px;
-
-}
-
-
-
-#form .row .input{
-	float: left;
-	margin-right: 10px;
-	width: auto;
-}
-
-
-
-
-
-#form .row .context{
-	color: #999;
-	font-size: 11px;
-	font-style: italic;
-	line-height: 14px;
-	font-family: arial, helvetica, sans-serif;
-	width: 200px;
-	float: left;
-}
-
-.detail{
-	width: 260px;
-	font-family: arial, helvetica, sans-serif;
-	font-size: 20px;
-	padding-top: 7px 8px;
-	margin: 0;
-
-}
-
-.mess{
-	width: 450px;
-	height: 280px;
-	max-width: 450px;
-	overflow: auto;
-	font-family: arial, helvetica, sans-serif;
-	font-size: 20px;
-	padding: 7px 8px;
-	line-height: 1em;
-	margin: 0;
-}
-
-#form #submit{
-	font-family: arial, helvetica, sans-serif;
-	margin-top: 25px;
-	margin-left: 210px;
-	color: #000;
-	font-size: 16px;
-	/*text-shadow: 1px 1px 1px #999;*/
-	padding: 30px;
-
-}
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
