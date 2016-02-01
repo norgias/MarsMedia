@@ -14,7 +14,7 @@ body {
 	
 }
 
-header .translucent_header{	/*translucent header on home page*/
+header.translucent_header{	/*translucent header on home page*/
 	
 	background: #0d0d0d;
 	opacity: 0.8;
