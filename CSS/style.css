@@ -33,7 +33,9 @@
 
 >>>>>>> 3e3cd778d3e42d5e0394ba0684b798dd41e21b85
 body{
-	background: #1a1a1a;
+	/*background: #1a1a1a;*/
+	background-image: url('images/stars.png');
+	background-position: center;
 	padding: 0;
 	margin:0;
 	font-family: sans-serif;
