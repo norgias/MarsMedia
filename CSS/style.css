@@ -1,7 +1,7 @@
 
 
 .mars {
-	margin-top: -55px;
+	margin-top: -40px;
 }
 
 
@@ -88,7 +88,7 @@ h1{
 @media screen and (max-width: 580px){
 
 	h1 {
-		margin-left: -40px;
+		margin-left: -60px;
 	}
 	
 	nav ul{
