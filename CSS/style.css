@@ -16,6 +16,7 @@ body {
 }
 
 header{
+	position: fixed;
 	background: #0d0d0d;
 	opacity: 0.8;
 	width: 100%;
