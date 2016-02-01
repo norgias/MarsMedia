@@ -17,6 +17,7 @@ body {
 
 header{
 	background: #0d0d0d;
+	opacity: 0.5%;
 	width: 100%;
 	padding: 40px 0;
 	text-align: right;
