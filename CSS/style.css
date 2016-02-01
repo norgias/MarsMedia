@@ -103,7 +103,9 @@ button:hover{
 /*contact form styling*/
 
 .contact_container{
-	width:50%;
+	width: 50%;
+	float: left;
+	margin: 100px 0 0 50px;
 }
 
 #formwrap{
