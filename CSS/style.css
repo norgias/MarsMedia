@@ -102,6 +102,10 @@ button:hover{
 
 /*contact form styling*/
 
+.contact_container{
+	width:50%;
+}
+
 #formwrap{
 	width: 100%;
 }
