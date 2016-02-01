@@ -6,8 +6,9 @@
 
 
 body {
-	background-position: bottom;
+	background-position: center;
 	background-image: no-repeat;
+	background-position: middle;
 	padding: 0;
 	margin:0;
 	font-family: sans-serif;
