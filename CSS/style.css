@@ -102,12 +102,12 @@ button:hover{
 
 /*contact page/form styling*/
 
-h2{
-	font-family: 'helvetica', sans-serif;
-	font-size: 6em;
-	margin-bottom: 60px;
-	color: black;	
-}
+/*h2{*/
+/*	font-family: 'helvetica', sans-serif;*/
+/*	font-size: 6em;*/
+/*	margin-bottom: 60px;*/
+/*	color: black;	*/
+/*}*/
 
 .contact_container{
 	width: 50%;
