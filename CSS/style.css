@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 .form {
 	margin-right: -160px;
 }
@@ -16,10 +17,17 @@
 
 
 
+=======
+>>>>>>> 3e3cd778d3e42d5e0394ba0684b798dd41e21b85
 .mars {
 	margin-top: -50px;
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 3e3cd778d3e42d5e0394ba0684b798dd41e21b85
 body{
 	background: #1a1a1a;
 	padding: 0;
@@ -31,7 +39,8 @@ body{
 }
 
 header{
-	background: #0d0d0d;
+	background: black;
+	/*opacity: 0.5;*/
 	width: 100%;
 	padding: 40px 0;
 	text-align: right;
@@ -101,11 +110,20 @@ h1{
 
 @media screen and (max-width: 580px){
 
+<<<<<<< HEAD
 	
     .form {
     	margin-right: -30px;
     }
 
+=======
+	h1 {
+		margin-left: -55px;
+	  	
+	}
+	
+	
+>>>>>>> 3e3cd778d3e42d5e0394ba0684b798dd41e21b85
 	nav ul{
 		max-height: 0;
 	}
