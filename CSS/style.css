@@ -80,6 +80,8 @@ h1{
 	color: #b34700;
 }
 
+/*Homepage Button styling*/
+
 button{
 	margin: 10px 292px 0 0;
 	float: right;
@@ -97,8 +99,21 @@ button:hover{
 	color: black;
 }
 
+/*contact form styling*/
+
 #formwrap{
+	width: 100%;
 	float: right;
+}
+
+#form{
+	margin-right: 50px;
+}
+
+
+row{
+	margin:0;
+	padding:0;
 }
 
 .handle{
