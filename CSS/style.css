@@ -6,12 +6,10 @@
 
 
 body {
-	background-image: url('images/stars.png');
-	background-position: center;
 	padding: 0;
 	margin:0;
 	font-family: sans-serif;
-	/*color: #bfbfbf;*/
+	color: #bfbfbf;
 	
 }
 
