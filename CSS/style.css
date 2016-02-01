@@ -113,9 +113,9 @@ button:hover{
 }
 
 #form{
-	float: right;
+	display: inline-block;
 	margin-right: 50px;
-	color:#666;
+	color:#303030;
 }
 
 
