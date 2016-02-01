@@ -97,6 +97,10 @@ button:hover{
 	color: black;
 }
 
+#form{
+	float: right;
+}
+
 .handle{
 	width: 100%;
 	background-color: #a3a3a3;
