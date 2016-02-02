@@ -178,6 +178,11 @@ row{
 	color: black;
 }
 
+#context{
+	color: #bfbfbf;
+	font-size: 12px;
+}
+
 @media screen and (max-width: 580px){
 
 	h1 {
