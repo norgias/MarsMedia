@@ -123,10 +123,6 @@ button:hover{
 	width: 100px;
 }
 
-div#form{
-	margin-top: 50px;
-}
-
 .row{
 	margin: 0;
 	padding: 0;
@@ -172,15 +168,16 @@ row{
 	height: 110px;
 }
 
-.label{			
-	padding: 0;
-	color: black;
-}
-
 #form{
 	color: #bfbfbf;
 	width: 1000px;
 	margin-top: 50px;
+	margin-left: 200px;
+}
+
+.label{			
+	padding: 0;
+	color: black;
 }
 
 .context{
