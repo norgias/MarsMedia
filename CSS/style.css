@@ -124,12 +124,14 @@ button:hover{
 	margin-right: 200px;
 	color:#303030;
 	float: right;
+	width: 100px;
 }
 
 .row{
 	margin: 0;
 	padding: 0;
-	margin-bottom: 20px;
+	display: inline-block;
+	margin: 0 50px 20px 0;
 }
 
 row{
