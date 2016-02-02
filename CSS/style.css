@@ -114,12 +114,21 @@ button:hover{
 #formwrap{
 	width: 100%;
 }
+
 #form{
 	display: inline-block;
 	margin-right: 200px;
 	color:#303030;
 	width: 100%;
 }
+
+#form{
+	color: #bfbfbf;
+	width: 1000px;
+	margin-top: 50px;
+	margin-left: 200px;
+}
+
 
 .row{
 	margin: 0;
