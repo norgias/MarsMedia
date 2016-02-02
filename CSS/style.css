@@ -179,6 +179,10 @@ row{
 	color: #bfbfbf;
 }
 
+#context{
+	margin-top: 10px;
+}
+
 @media screen and (max-width: 580px){
 
 	h1 {
