@@ -151,7 +151,11 @@ row{
 	font-family: inherit;
 	font-size: inherit;
 	line-height: inherit;
-	margin-bottom: 10px;
+	margin-bottom: 15px;
+}
+
+.input{
+	color:black;
 }
 
 #fullname.detail{		/*Size of 'FullName' input area*/
