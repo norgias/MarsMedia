@@ -1,5 +1,6 @@
 
 
+
 .mars {
 	margin-top: -40px;
 }
@@ -77,7 +78,7 @@ section{
 h1{
 	font-family: 'Lato', sans-serif;
 	font-size: 6em;
-	margin-bottom: 30px;
+	margin-bottom: 60px;
 	color: #b34700;
 }
 
@@ -102,15 +103,19 @@ button:hover{
 
 /*contact page/form styling*/
 
+/*h2{*/
+/*	font-family: 'helvetica', sans-serif;*/
+/*	font-size: 6em;*/
+/*	margin-bottom: 60px;*/
+/*	color: black;	*/
+/*}*/
+
 .contact_container{
 	/*width: 50%;*/
 	float: left;
-	margin: 70px 0 0 0;
+	margin: 100px 0 0 50px;
 }
 
-.contact_container p{
-	margin: 0px 0px 10px 100px;
-}
 #formwrap{
 	width: 100%;
 }
@@ -119,24 +124,12 @@ button:hover{
 	display: inline-block;
 	margin-right: 200px;
 	color:#303030;
-	width: 100%;
-}
-
-#form{
-	display: inline-block;
-	margin-right: 200px;
-	color:#303030;
 	float: right;
-	width: 100px;
 }
-
-
 
 .row{
 	margin: 0;
-	padding: 0;
-	display: inline-block;
-	margin: 0 50px 20px 0;
+	margin-bottom: 20px;
 }
 
 row{
@@ -159,7 +152,11 @@ row{
 	font-family: inherit;
 	font-size: inherit;
 	line-height: inherit;
-	margin-bottom: 0px;
+	margin-bottom: 15px;
+}
+
+.input{
+	color: #666;
 }
 
 #fullname.detail{		/*Size of 'FullName' input area*/
@@ -173,8 +170,8 @@ row{
 }
 
 #comment.mess{		/*Size of 'Message' input area*/
-	width: 377px;
-	height: 110px;
+	width: 200px;
+	height: 90px;
 }
 
 .label{			
@@ -182,20 +179,12 @@ row{
 	color: black;
 }
 
-#form{
-	color: #bfbfbf;
-	width: 1000px;
-	margin-top: 50px;
-}
-
-
-.context{
-	margin-top: 10px;
-	font-size: 10px;
-}
-
 @media screen and (max-width: 580px){
-
+	.formm {
+		float: left;
+	}
+	
+	
 	h1 {
 		margin-left: -60px;
 	}
