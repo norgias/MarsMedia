@@ -123,10 +123,11 @@ button:hover{
 }
 
 #form{
-	color: #bfbfbf;
-	width: 1000px;
-	margin-top: 50px;
-	margin-left: 200px;
+	display: inline-block;
+	margin-right: 200px;
+	color:#303030;
+	float: right;
+	width: 100px;
 }
 
 
@@ -180,6 +181,13 @@ row{
 	padding: 0;
 	color: black;
 }
+
+#form{
+	color: #bfbfbf;
+	width: 1000px;
+	margin-top: 50px;
+}
+
 
 .context{
 	margin-top: 10px;
