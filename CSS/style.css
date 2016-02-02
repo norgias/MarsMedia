@@ -154,9 +154,14 @@ row{
 	margin-bottom: 10px;
 }
 
-#fullname.detail{
+#fullname.detail, #email.detail, {
 	width: 250px;
 	height: 40px;	
+}
+
+.label{
+	padding: 0;
+	color: black;
 }
 
 @media screen and (max-width: 580px){
