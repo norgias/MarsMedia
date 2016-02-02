@@ -182,6 +182,7 @@ row{
 @media screen and (max-width: 580px){
 	.formm {
 		float: left;
+		margin-left: -50px;
 	}
 	
 	
