@@ -154,7 +154,7 @@ row{
 	margin-bottom: 10px;
 }
 
-#fullname.detail, #email.detail, {
+#fullname.detail{
 	width: 250px;
 	height: 40px;	
 }
