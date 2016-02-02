@@ -110,7 +110,7 @@ button:hover{
 /*}*/
 
 .contact_container{
-	width: 50%;
+	/*width: 50%;*/
 	float: left;
 	margin: 100px 0 0 50px;
 }
@@ -121,10 +121,14 @@ button:hover{
 
 #form{
 	display: inline-block;
-	margin-right: 50px;
+	margin-right: 200px;
 	color:#303030;
+	float: left;
 }
 
+.row{
+	margin: 0;
+}
 
 row{
 	margin:0;
