@@ -154,12 +154,22 @@ row{
 	margin-bottom: 10px;
 }
 
-#fullname.detail{
+#fullname.detail{		/*Size of 'FullName' input area*/
 	width: 250px;
 	height: 40px;	
 }
 
-.label{
+#email.detail{		/*Size of 'FullName' input area*/
+	width: 250px;
+	height: 40px;	
+}
+
+#comment.mess{		/*Size of 'Message' input area*/
+	width: 200px;
+	height: 90px;
+}
+
+.label{			
 	padding: 0;
 	color: black;
 }
