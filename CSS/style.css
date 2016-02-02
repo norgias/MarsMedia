@@ -118,7 +118,7 @@ button:hover{
 	display: inline-block;
 	margin-right: 200px;
 	color:#303030;
-	width: 100px;
+	width: 100%;
 }
 
 .row{
