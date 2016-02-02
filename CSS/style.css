@@ -108,8 +108,8 @@ button:hover{
 	margin: 70px 0 0 0;
 }
 
-p.contact_container{
-	margin: 0px 100px 10px;
+.contact_container p{
+	margin: 0px 0px 10px 100px;
 }
 #formwrap{
 	width: 100%;
