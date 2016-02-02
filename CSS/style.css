@@ -127,6 +127,10 @@ button:hover{
 	width: 100px;
 }
 
+div#form{
+	margin-top: 50px;
+}
+
 .row{
 	margin: 0;
 	padding: 0;
@@ -180,6 +184,7 @@ row{
 #form{
 	color: #bfbfbf;
 	width: 1000px;
+	margin-top: 50px;
 }
 
 #context{
