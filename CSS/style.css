@@ -128,7 +128,7 @@ button:hover{
 
 .row{
 	margin: 0;
-	margin-bottom: 20px;
+	padding: 0;
 }
 
 row{
@@ -151,11 +151,7 @@ row{
 	font-family: inherit;
 	font-size: inherit;
 	line-height: inherit;
-	margin-bottom: 15px;
-}
-
-.input{
-	color: #666;
+	margin-bottom: 0px;
 }
 
 #fullname.detail{		/*Size of 'FullName' input area*/
@@ -178,9 +174,8 @@ row{
 	color: black;
 }
 
-#context{
+#form{
 	color: #bfbfbf;
-	font-size: 12px;
 }
 
 @media screen and (max-width: 580px){
