@@ -183,8 +183,9 @@ row{
 	margin-top: 50px;
 }
 
-#context{
+.input .context{
 	margin-top: 10px;
+	font-size: 10px;
 }
 
 @media screen and (max-width: 580px){
