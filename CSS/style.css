@@ -185,6 +185,11 @@ row{
 	#nick {
 		height: 150px;
 		width: 150px;
+		margin-bottom: 15px;
+	}
+	
+	h2 {
+		padding-top: 10px;
 	}
 	
 	#form {
