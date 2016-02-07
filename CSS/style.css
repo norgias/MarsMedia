@@ -183,8 +183,8 @@ row{
 
 @media screen and (max-width: 580px){
 	#nick {
-		height: 100px;
-		width: 100px;
+		height: 150px;
+		width: 150px;
 	}
 	
 	#form {
