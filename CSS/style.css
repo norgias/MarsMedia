@@ -188,8 +188,14 @@ row{
 		
 	}
 	
-	h2 {
-		margin-top: -20px;
+	#adriel {
+		height: 150px;
+		width: 150px;
+	}
+	
+	#para2 {
+		height: 200px;
+		width: 200px;
 	}
 	
 	#form {
