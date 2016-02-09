@@ -189,9 +189,10 @@ row{
 	}
 	
 	#adriel {
+		position: inherit;
 		height: 150px;
 		width: 150px;
-		margin-bottom: -100px;
+		
 	}
 	
 	#para2 {
