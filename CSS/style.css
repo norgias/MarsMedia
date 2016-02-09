@@ -232,6 +232,9 @@ row{
 	.handle{
 		display: inline-block;
 	}
+	#ehdrielheading {
+		margin-top: -100px;
+	}
 }
 
 @media screen and (max-width: 320px){ /*--> SITE SHRINK
