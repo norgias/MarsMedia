@@ -14,9 +14,13 @@ body {
 	margin:0;
 	font-family: sans-serif;
 	color: #E0E0E0;
-	overflow-x: hidden;
+	overflow-x: hidden;        /*stops horizontal scrolling on mobile view */
 	
 	
+}
+
+html {
+	overflow-x: hidden;   /*stops horizontal scrolling on mobile view */
 }
 
 header.translucent_header{	/*translucent header on home page*/
