@@ -31,6 +31,10 @@
             #aboutHeader {
             	margin-left: 40px;
             }
+            #aboutHeader2 {
+            	margin-left: 40px;
+            	visibility: hidden;
+            }
 
             #art1 {
             	position: inherit;
@@ -89,6 +93,15 @@
              	border-radius: 25px;
              	box-shadow: 10px 10px 20px black;
              }
+             
+             @media screen and (max-width: 580px){
+             	#aboutHeader {
+             		visibility: none;
+             	}
+             	#aboutHeader2 {
+             		visibility: visible;
+             	}
+             }
 
             
 
@@ -126,6 +139,7 @@
 		 </nav>
 		 
 		 <h1 id="aboutHeader">Get to know us...</h1>
+		 <h1 id="aobutHeader2">About us</h1>
         
 		 <section id="secone">
 		 		
