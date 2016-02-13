@@ -128,7 +128,7 @@ button:hover{
 	width: 100%;
 }
 
-#form{
+.form{
 	display: inline-block;
 	margin-right: 200px;
 	color:#303030;
