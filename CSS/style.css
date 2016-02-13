@@ -133,6 +133,9 @@ button:hover{
 	margin-right: 200px;
 	color:#303030;
 	float: right;
+	border-style: solid;
+        border-width: 5px;
+        border-color: black;
 }
 
 .row{
