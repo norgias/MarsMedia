@@ -124,16 +124,14 @@ button:hover{
 
 #formwrap{
 	width: 100%;
+	color: #c9c99c;
 }
 
 .form{
 	display: inline-block;
 	margin-right: 200px;
-	color: #c9c99c;
 	float: right;
-	
 	width: 100%;
-
         padding: 30px;
         border-radius: 10px;
         box-shadow: 10px 10px 20px black;
