@@ -264,6 +264,9 @@ row{
 	.formheader {
 		margin-left: -100px;
 	}
+	button {
+		font-size: 9px;
+	}
 	
 
 	
