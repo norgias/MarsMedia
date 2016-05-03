@@ -270,6 +270,7 @@ row{
 	button {
 		font-size: 12px;
 		margin: auto;
+		float: right;
 	}
 	
 
