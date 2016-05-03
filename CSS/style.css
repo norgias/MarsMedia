@@ -7,6 +7,7 @@
 
 body {
 	background-position: center center;
+	background:url(../Images/nasa.jpg) no-repeat 0px 0px;
 	padding: 0;
 	margin:0;
 	font-family: sans-serif;
